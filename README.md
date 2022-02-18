@@ -34,9 +34,9 @@ Users should be able to:
 
 ### Links
 
-- Repository Link: [Repository Link Here]()
+- Repository Link: [Repository Link Here](https://github.com/imhayatunnabi/Frontend-Mentor-Blogr-landing-page)
 
-- Live Site URL: [Website link of my solution]()
+- Live Site URL: [Website link of my solution](https://frontend-mentor-blogs-landing-page-imhayatunnabi.netlify.app/)
 
 ## My process
 
@@ -80,4 +80,5 @@ Since, this is my first attempt at full responsive website. So, its not perfect.
 ## Acknowledgments
 
 I would like to thank `Google` for sticking with me through thick and thin. Without you my project would not have been completed.
+
 # Frontend-Mentor-Blogr-landing-page
