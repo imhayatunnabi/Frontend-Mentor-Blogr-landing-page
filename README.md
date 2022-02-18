@@ -80,3 +80,4 @@ Since, this is my first attempt at full responsive website. So, its not perfect.
 ## Acknowledgments
 
 I would like to thank `Google` for sticking with me through thick and thin. Without you my project would not have been completed.
+# Frontend-Mentor-Blogr-landing-page
