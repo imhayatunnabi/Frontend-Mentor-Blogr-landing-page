@@ -157,6 +157,7 @@ header {
 .actions button:hover {
     opacity: 0.8;
 }
+
 /* end of header */
 
 
@@ -420,8 +421,8 @@ footer {
         left: 0;
         top: 0;
         bottom: 45em;
-        height:40em;
-        background:linear-gradient(-45deg, red,white);
+        height: 40em;
+        background: linear-gradient(-45deg, red, white);
         list-style-type: none;
         display: flex;
         flex-direction: column;
@@ -444,9 +445,10 @@ footer {
         position: relative;
         z-index: 2;
     }
-    .nav-links:nth-child(1){
+
+    .nav-links:nth-child(1) {
         position: relative;
-        z-index:2;
+        z-index: 2;
     }
 
     .hamburger {
@@ -458,6 +460,7 @@ footer {
         opacity: 1;
         pointer-events: all;
     }
+
     .drop-link {
         padding: 0.1em 2em 0.5em 2em;
     }
@@ -591,8 +594,8 @@ footer {
 
 }
 
-#credit{
-    padding-top:2em;
-    padding-bottom:0;
+#credit {
+    padding-top: 2em;
+    padding-bottom: 0;
     text-align: center;
 }
