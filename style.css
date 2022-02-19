@@ -13,9 +13,7 @@
     --fs-heading: "Ubuntu", sans-serif;
 }
 
-*,
-*::before,
-*::after {
+*{
     box-sizing: border-box;
 }
 
